@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378939472826",
+    "project_id": "flutter-eletiva",
+    "storage_bucket": "flutter-eletiva.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378939472826:android:ff298e86625370b99dbb83",
+        "android_client_info": {
+          "package_name": "br.com.flutter_app3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378939472826-c31l0flnoelbc23fhh8c9r6b68de9he6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCTlQF7YeYr1uVT9o8dI2T7TRFr92B9Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378939472826-c31l0flnoelbc23fhh8c9r6b68de9he6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
